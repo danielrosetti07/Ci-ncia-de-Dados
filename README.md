@@ -1,2 +1,2 @@
-# Ci-ncia-de-Dados
+# Ciencia-de-Dados
 Estudando
